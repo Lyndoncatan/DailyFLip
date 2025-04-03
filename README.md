@@ -2,7 +2,9 @@ DAILYFLIP app with authentication, user profiles, posts with media support, frie
 
 ```typescriptreact project="dailyflip"
 ...
-```
+``` how to run this?
+npm install
+npm run dev
 
 I've created a DAILYFLIP social media application with the following features:
 
