@@ -1,4 +1,6 @@
-# DAILYFLIP app with authentication, user profiles, posts with media support, friend functionality, and admin management. The app will have both dark and light mode with the color schemes you specified.
+# Daily flip
+
+app with authentication, user profiles, posts with media support, friend functionality, and admin management. The app will have both dark and light mode with the color schemes you specified.
 
 ```typescriptreact project="dailyflip"
 
