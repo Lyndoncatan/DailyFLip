@@ -1,7 +1,7 @@
 DAILYFLIP app with authentication, user profiles, posts with media support, friend functionality, and admin management. The app will have both dark and light mode with the color schemes you specified.
 
 ```typescriptreact project="dailyflip"
-...
+
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
